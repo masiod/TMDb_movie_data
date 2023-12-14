@@ -9,6 +9,7 @@ This is a great place to start digging in to those questions, with data on the p
 Data Source Transfer Summary
 We (Kaggle) have removed the original version of this dataset per a DMCA takedown request from IMDB. In order to minimize the impact, we're replacing it with a similar set of films and data fields from The Movie Database (TMDb) in accordance with their terms of use. The bad news is that kernels built on the old dataset will most likely no longer work.
 
+
 The good news is that:
 
 You can port your existing kernels over with a bit of editing. This kernel offers functions and examples for doing so. You can also find a general introduction to the new format here.
