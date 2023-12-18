@@ -8,7 +8,7 @@ What can we say about the success of a movie before it is released? Are there ce
 
 HEAD
 Installation:
-[git clone https://github.com/masiod/TMDb_movie_data.git]
+git clone https://github.com/masiod/TMDb_movie_data.git
 =======
 This is a great place to start digging in to those questions, with data on the plot, cast, crew, budget, and revenues of several thousand films.
 
